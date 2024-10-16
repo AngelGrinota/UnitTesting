@@ -122,8 +122,5 @@ namespace UnitTesting.AngelGinota
             Assert.Equal(expectedResult2, result.Item2);
         }
 
-        //Лабораторная работа №7
-
-
     }
 }
